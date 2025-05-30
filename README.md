@@ -9,9 +9,7 @@ A simple and clean To-Do list built with React. You can add tasks, mark them as 
 - Add new tasks
 - Mark tasks as complete/incomplete
 - Delete tasks
-- Dynamic task list with unique IDs
 - Minimal and responsive UI using Tailwind CSS
-- Component-based architecture
 
 ---
 
